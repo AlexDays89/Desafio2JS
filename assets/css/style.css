@@ -24,3 +24,11 @@
 .total {
     text-align: center;
 }
+
+.links {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    flex-direction: column;
+    gap: 10px;
+}
