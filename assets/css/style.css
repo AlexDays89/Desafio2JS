@@ -1,0 +1,26 @@
+.titulo {
+    text-align: center;
+}
+
+.galeriastickers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around
+}
+
+.stickers img {
+    width: 200px;
+    height: 200px;
+}
+
+.stickers {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.total {
+    text-align: center;
+}
