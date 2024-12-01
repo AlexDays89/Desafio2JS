@@ -1,7 +1,6 @@
 sticker1 = document.querySelector(".cantidad1");
 sticker2 = document.querySelector(".cantidad2");
 sticker3 = document.querySelector(".cantidad3");
-totalstickers = document.querySelector(".totalstickers");
 verificar = document.querySelector(".boton");
 alerta = document.querySelector(".mensaje");
 
